@@ -1,6 +1,8 @@
 # Eiffel
 
 EIFGENs
+eifdocker.rc
+system.log
 
 # Windows image file caches
 Thumbs.db
