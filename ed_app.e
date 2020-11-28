@@ -1,6 +1,6 @@
 note
 	descrition: "Primary application class."
-	
+
 class
 	ED_APP
 
@@ -27,7 +27,9 @@ feature {NONE} -- Initialization
 feature {NONE} -- Implementation
 
 	application: EV_APPLICATION
+			-- Primary `application'.
 
 	main_window: ED_MAIN_WINDOW
+			-- Primary `application' `main_window'.
 
 end

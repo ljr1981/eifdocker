@@ -48,13 +48,13 @@ feature -- Access
 		end
 
 	log_debug (a_parent: ANY; a_message: STRING)
-			--
+			-- Write a `log_debug' `a_message' for `a_parent' object.
 		do
 			logger.write_debug ("{" + a_parent.generating_type + "}%T" + a_message)
 		end
 
 	log_info (a_parent: ANY; a_message: STRING)
-			--
+			-- Write a `log_info' `a_message' for `a_parent' object.
 		do
 			logger.write_information ("{" + a_parent.generating_type + "}%T" + a_message)
 		end
