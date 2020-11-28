@@ -1,3 +1,6 @@
+note
+	description: "Features to apply to any ED_* class."
+
 class
 	ED_ANY
 

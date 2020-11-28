@@ -1,3 +1,6 @@
+note
+	description: "Primary main window menu bar."
+	
 class
 	ED_MAIN_MENU_BAR
 

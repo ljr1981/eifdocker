@@ -1,3 +1,6 @@
+note
+	descrition: "Primary application class."
+	
 class
 	ED_APP
 
