@@ -1,4 +1,7 @@
-﻿class
+﻿note
+	description: "Application Main Window"
+
+class
 	ED_MAIN_WINDOW
 
 inherit
